@@ -118,6 +118,10 @@ L'application est accessible à l'adresse : **`http://localhost:3000`**
 npm run build
 npm start
 ```
+<img width="1373" height="799" alt="image" src="https://github.com/user-attachments/assets/139a3f48-8a8f-426b-b1ca-79fd5148fe34" />
+
+<img width="1373" height="794" alt="image" src="https://github.com/user-attachments/assets/d5135f8d-0f89-4a03-8d87-b355b6541097" />
+<img width="664" height="670" alt="image" src="https://github.com/user-attachments/assets/75b7939a-7315-4d17-915f-4ce1e4d0d27e" />
 
 ---
 
