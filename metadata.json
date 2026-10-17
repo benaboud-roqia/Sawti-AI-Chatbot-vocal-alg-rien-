@@ -1,0 +1,6 @@
+{
+  "name": "Sawti AI — Chatbot vocal algérien",
+  "description": "Chatbot vocal intelligent en Darija algérienne avec reconnaissance vocale, compréhension NLP et synthèse vocale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
